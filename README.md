@@ -1,0 +1,2 @@
+# hsblog
+Haskell Programming Explorations
